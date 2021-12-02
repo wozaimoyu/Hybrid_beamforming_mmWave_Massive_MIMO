@@ -1,5 +1,7 @@
 # Hybrid_beamforming_mmWave_Massive_MIMO
 
+The codes are about paper "Performance Analysis of SIC based hybrid precoding for multi-user case in 3D scenario" which is posted at Research Square.
+
 MIMO uses 2 to 4 antennas at the transmitter and receiver, which requires individual RF units for each 
 antenna. Massive MIMO uses further large number of antennas (at least 64 antennas) to improve throughput and 
 spectral efficiency, so it is one of the important technology in 5G. Beamforming is a signal processing 
